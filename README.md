@@ -63,7 +63,7 @@ Core tracking features are completely free. You get 5 free AI interactions to tr
 
 ## 📲 How to Use
 
-1. Download the latest `.apk` release from the [Releases](https://github.com/arctco/cinematiqueapp/releases) page.
+1. Download the latest `.apk` release from the [Releases](https://github.com/arctco/cinematiqueandroid/releases) page.
 2. Install it on your Android device.
 3. Start tracking your film and TV journey, privately.
 
@@ -100,4 +100,4 @@ cinematique is a tracking tool. It does not stream or host any media content. Al
 
 ## 📜 Terms of Use
 
-By using this website/app, you agree to the terms outlined [here](https://github.com/arctco/cinematiqueapp/blob/master/TERMS.md). Your continued use implies acceptance of any future updates to these terms.
+By using this website/app, you agree to the terms outlined [here](https://github.com/arctco/cinematiqueandroid/blob/master/TERMS.md). Your continued use implies acceptance of any future updates to these terms.
