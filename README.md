@@ -10,7 +10,7 @@
 
 cinematique is a local-first, privacy-focused app designed to help you track the movies and TV shows you love. Built with care, powered by community data and optional AI, cinematique is smart, sleek, and fully under your control.
 
-> **Note:** This repository is for the **Android app download** only. It does **not** contain the source code for the cinematique . But you can access the website by clicking [here](https://cinematique.me)!
+> **Note:** This repository is for the **Android app download** only. It does **not** contain the source code for cinematique. You can access the website by clicking [here](https://cinematique.me)!
 
 ---
 
