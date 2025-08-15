@@ -1,7 +1,7 @@
-[![cinematique preview](https://media.discordapp.net/attachments/647884127386992665/1392620077702189207/fgfg.png?ex=68703204&is=686ee084&hm=dddc108355eec9797b8d36549d1ce9f6e55d488e9830c38f7a72e9419b11e88a&=&format=webp&quality=lossless&width=1249&height=210)](https://cinematique.me)
+[![cinematique preview](https://media.discordapp.net/attachments/647884127386992665/1405960564475302018/Design_sem_nome.png?ex=68a0ba50&is=689f68d0&hm=8ff3206b6b584be4ff92b925b313ac8ab75e2b2504ac3720d74114a4a41b1409&=&format=webp&quality=lossless&width=1872&height=315)](https://cinematique.me)
 
 
-![Version](https://img.shields.io/badge/version-0.8.0-violet.svg)
+![Version](https://img.shields.io/badge/version-1.1.3-violet.svg)
 ![Privacy Respecting](https://img.shields.io/badge/privacy-100%25%20local-success)
 ![Status](https://img.shields.io/badge/status-released-purple.svg)
 
