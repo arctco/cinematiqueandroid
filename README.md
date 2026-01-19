@@ -1,103 +1,133 @@
-[![cinematique preview](https://media.discordapp.net/attachments/647884127386992665/1405960564475302018/Design_sem_nome.png?ex=68e34e10&is=68e1fc90&hm=97e74f5272416593ff0dea434374396b8bc76558ad1e36e65c3ab868cf180932&=&format=webp&quality=lossless&width=1872&height=315)](https://cinematique.me)
+[![cinematique preview](https://media.discordapp.net/attachments/647884127386992665/1405960564475302018/Design_sem_nome.png?ex=696bc150&is=696a6fd0&hm=497f40e0bc3032ef13236f99ed094cafc44496d16bd307396209c2743edbba75&=&format=webp&quality=lossless)](https://cinematique.me)
 
-
-![Version](https://img.shields.io/badge/version-1.5.3-violet.svg)
-![Privacy Respecting](https://img.shields.io/badge/privacy-100%25%20local-success)
+![Version](https://img.shields.io/badge/version-1.7.0-violet.svg)
+![Privacy First](https://img.shields.io/badge/privacy-local--first-success)
 ![Status](https://img.shields.io/badge/status-released-purple.svg)
 
+# cinematique
 
-**A personal media tracker for film and TV lovers, by a film and TV lover.**
+**Movies. TV. Anime. Privacy. No ads. No nonsense.**
 
-cinematique is a local-first, privacy-focused app designed to help you track the movies and TV shows you love. Built with care, powered by community data and optional AI, cinematique is smart, sleek, and fully under your control.
+A local-first media tracker built for people who love film, television, and anime—but don't want to give up their privacy for it. Your data stays yours. No accounts, no tracking, no algorithmic manipulation.
 
-> **Note:** This repository is for the **Android app download** only. It does **not** contain the source code for cinematique. You can access the website by clicking [here](https://cinematique.me)!
-
----
-
-I hope to make this version available on app stores soon, thanks for using cinematique and for sticking with the project as it grows.
-
-## 🚀 About This Project
-
-cinematique was born from a simple idea: to create a beautiful, modern, and intelligent way to keep up with the ever-expanding universe of movies and TV shows. It's designed to be local-first, meaning your data stays with you, with optional cloud sync via TMDB if needed.
-
-### Core Pillars
-
-* **Privacy First & Local**: All your data is saved on your device. No accounts. No tracking.
-* **Community-Powered Data**: Media info is powered by TMDB's open API.
-* **Intelligently Simple**: Optional AI features powered by Google's Gemini API for smart discovery.
+> **Note:** This repository is for **Android app releases**. It does not contain source code. Visit [cinematique.me](https://cinematique.me) for the web version.
 
 ---
 
-## 🛠 How It's Made
+## What Makes cinematique Different
 
-* **React**: Modern frontend built with the latest React features.
-* **The Movie Database (TMDB)**: Community-driven source of film and TV metadata.
-* **Google Gemini API**: Optional AI features like summaries, chat, and recommendations.
-* **Trakt.tv**: Displays community ratings from Trakt.tv anonymously to enhance content discovery.
-* **Google Drive**: Includes an optional Google Drive integration to let users back up and restore their local data.
+### Privacy First
+All your data is stored locally on your device. No mandatory accounts, no analytics, no data harvesting. Optional cloud sync via Google Drive keeps you in control.
 
----
+### Cross-Platform Sync
+Link your accounts from **Trakt**, **Simkl**, **TMDB**, **AniList**, and **MyAnimeList**. Bidirectional sync keeps your watch history, ratings, and lists in harmony across platforms—without the manual babysitting.
 
-## 🔐 Privacy and Data
+### The Anime Sanctuary
+Dedicated anime hub with seasonal trends, AniList ratings, Romaji title support, and specialized genre tags (Isekai, Shounen, Slice of Life). Because your anime obsession deserves its own space.
 
-cinematique was built with privacy as a top priority:
+### Optional AI Tools
+Summaries, recommendations, and smart suggestions powered by Google Gemini—only if you want them. No robot takeover. You control when and how AI features are used.
 
-* No user accounts or logins.
-* No analytics or trackers.
-* All tracking data (watched episodes, custom lists) is stored in your browser's local storage.
+### Beautiful & Customizable
+Themes, accent colors, font sizes, high contrast mode. Make it yours. The interface adapts to your preferences, not ours.
 
-### Third-Party Services
-
-* **TMDB**: Optional sync for your public TMDB watchlist. Custom lists and episode progress remain local.
-* **Google Gemini**: Optional AI tools send only non-personal data to Gemini. You can provide your own Gemini API key, stored locally, for unlimited use.
-* **Trakt.tv**: Displays community ratings from Trakt.tv anonymously to enhance content discovery.
-* **Google Drive**: Includes an optional Google Drive integration to let users back up and restore their local data.
+### Import Your History
+Bring your IMDb ratings and watch history home with CSV import. Your decade of 7/10 ratings, finally in one place.
 
 ---
 
-## 💸 Free Forever
+## Features
 
-Core tracking features are completely free. You get 5 free AI interactions to try smart features. For unlimited AI use, add your own Gemini API key via your profile settings.
-
----
-
-## 📲 How to Use
-
-1. Download the latest `.apk` release from the [Releases](https://github.com/arctco/cinematiqueandroid/releases) page.
-2. Install it on your Android device.
-3. Start tracking your film and TV journey, privately.
+- **Smart Search** – Find any movie, show, actor, or anime in seconds
+- **Custom Lists** – Organize with lists like "Oscar Bait," "Comfort Anime," or "So Bad It's Good"
+- **Episode Tracking** – Never miss new episodes with notifications and airing calendars
+- **Stats & Insights** – Visualize your viewing habits (prepare to feel proud or concerned)
+- **Advanced Filtering** – Sort by genre, year, rating, runtime, or watched status
+- **Multilingual** – Available in English, Portuguese, Spanish, Japanese, and more
+- **TMDBattle** – A plot-summary guessing game that makes you question if you've ever actually seen a movie
 
 ---
 
-## 🧠 Tips & Tricks
+## Installation
 
-Want to get the most out of cinematique? Check out our [Tips & Tricks](https://cinematique.me) guide for power users.
+1. Download the latest version from [Google Play](https://play.google.com/store/apps/details?id=com.arctco.cinematique)
+2. Install on your Android device
+3. Start tracking. Your data stays local unless you choose otherwise.
 
----
-
-## ❤️ Support the Project
-
-cinematique is and will remain free. If you enjoy using it, consider donating to help cover hosting and API costs:
-
-👉 [Buy Me a Coffee](https://buymeacoffee.com/cinematique)
-👉 [Ko-fi](https://ko-fi.com/cinematique)
+**Also available on:**
+- [Web Version](https://cinematique.me)
 
 ---
 
-## 📬 Get in Touch
+## Privacy & Third-Party Services
 
-Have a feature request, bug report, or just want to say hi? Contact me at:
+cinematique uses the following services **only when you enable them**:
 
-📧 [Join our Discord](https://discord.gg/ywMAE7p7tE)
+| Service | What It Does | Data Shared |
+|---------|-------------|-------------|
+| **TMDB** | Movie/TV/anime metadata | Search queries only |
+| **Trakt/Simkl** | Cross-platform sync | Watch history, ratings (your choice) |
+| **AniList/MAL** | Anime tracking sync | Anime progress, ratings (your choice) |
+| **Google Gemini** | AI summaries & recommendations | Non-personal queries (use your own API key) |
+| **Google Drive** | Backup/restore | Your local data (encrypted, your control) |
+
+**What we never collect:** Personal info, browsing habits, analytics, or anything that identifies you.
 
 ---
 
-## ⚠️ Disclaimer
+## Pricing
 
-cinematique is a tracking tool. It does not stream or host any media content. All media info comes from TMDB and AI outputs may contain inaccuracies.
+**Free. Forever.**
+
+No ads. No premium tiers locking away basic features. No subscription paywalls.
+
+AI features include 5 free interactions. For unlimited use, add your own Gemini API key (stored locally, costs ~pennies).
 
 ---
 
-## 📜 Terms of Use
+## Support Development
 
-By using this website/app, you agree to the terms outlined [here](https://github.com/arctco/cinematiqueandroid/blob/master/TERMS.md). Your continued use implies acceptance of any future updates to these terms.
+cinematique is built and maintained by one developer (and a cat who supervises). If you'd like to support hosting costs and API fees:
+
+- [Buy Me a Coffee](https://buymeacoffee.com/cinematique)
+- [Ko-fi](https://ko-fi.com/cinematique)
+
+Every contribution helps keep the project sustainable and ad-free.
+
+---
+
+## Bug Reports & Feature Requests
+
+Found a bug? Have an idea? Let's talk:
+
+- [Join our Discord](https://discord.gg/ywMAE7p7tE)
+- Contact via [cinematique.me](https://cinematique.me)
+
+---
+
+## Built With
+
+- **React** – Modern, responsive UI
+- **TMDB API** – Community-driven media metadata
+- **Google Gemini API** – Optional AI features
+- **Trakt/Simkl/AniList/MAL APIs** – Cross-platform sync
+- **Google Drive API** – Optional cloud backup
+- **Coffee & regret** – The primary development stack
+
+---
+
+## Disclaimer
+
+cinematique is a tracking tool. It does not host, stream, or distribute media content. All metadata is sourced from TMDB and other third-party services. AI outputs may contain inaccuracies—use your judgment.
+
+---
+
+## Legal
+
+By using cinematique, you agree to the [Terms of Use](https://github.com/arctco/cinematiqueandroid/blob/master/TERMS.md).
+
+**TMDB Notice:** This product uses the TMDB API but is not endorsed or certified by TMDB. It's just an independent project built with a lot of coffee and a love for cinema.
+
+---
+
+*Made with cold coffee and questionable life decisions. Local-first. Privacy-focused. Built for humans, not algorithms.*
