@@ -81,7 +81,7 @@ cinematique uses the following services **only when you enable them**:
 
 No ads. No premium tiers locking away basic features. No subscription paywalls.
 
-AI features include 5 free interactions. For unlimited use, add your own Gemini API key (stored locally, costs ~pennies).
+To use AI features, add your own Gemini API key (stored locally, costs ~pennies).
 
 ---
 
