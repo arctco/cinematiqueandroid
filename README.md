@@ -1,6 +1,6 @@
 [![cinematique preview](https://media.discordapp.net/attachments/647884127386992665/1405960564475302018/Design_sem_nome.png?ex=696bc150&is=696a6fd0&hm=497f40e0bc3032ef13236f99ed094cafc44496d16bd307396209c2743edbba75&=&format=webp&quality=lossless)](https://cinematique.me)
 
-![Version](https://img.shields.io/badge/version-1.7.1-violet.svg)
+![Version](https://img.shields.io/badge/version-1.7.2-violet.svg)
 ![Privacy First](https://img.shields.io/badge/privacy-local--first-success)
 ![Status](https://img.shields.io/badge/status-released-purple.svg)
 
