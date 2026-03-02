@@ -1,4 +1,4 @@
-[![cinematique preview](https://iili.io/qqLKx5X.md.png)](https://cinematique.me)
+[![cinematique preview](https://iili.io/qqLKx5X.png)](https://cinematique.me)
 
 ![Version](https://img.shields.io/badge/version-1.7.4-violet.svg)
 ![Privacy First](https://img.shields.io/badge/privacy-local--first-success)
