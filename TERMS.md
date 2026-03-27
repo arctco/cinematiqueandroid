@@ -1,6 +1,6 @@
 # Terms of Use – cinematique
 
-*Last updated: July 13, 2025*
+*Last updated: March 27, 2026*
 
 Welcome to **cinematique** – a personal media tracking tool designed to help you keep track of your movies and TV shows. By using this app or accessing its related services, you agree to the following terms and conditions.
 
