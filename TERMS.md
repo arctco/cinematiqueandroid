@@ -40,7 +40,7 @@ Usage of TMDB data is subject to [TMDB's Terms of Use](https://www.themoviedb.or
 
 ### Trakt.tv
 
-cinematique displays community ratings from Trakt.tv anonymously to enhance content discovery. You may optionally connect your Trakt.tv account for two-way sync of your watch history, ratings, and collection. This integration is optional and governed by Trakt.tv’s Terms and Privacy Policy.
+cinematique displays community ratings from Trakt.tv anonymously to enhance content discovery. You may optionally connect your Trakt.tv account for two-way sync of your watch history, ratings, and collection. This integration is optional and governed by Trakt.tv’s [Terms of Service](https://trakt.tv/terms) and [Privacy Policy](https://trakt.tv/privacy).
 
 ### Google Drive
 
@@ -59,6 +59,18 @@ AI-powered features such as summaries, recommendations, and chat use the Google 
 Your API key, if provided, is stored locally and not shared with cinematique. Usage is subject to [Google’s API Terms](https://cloud.google.com/terms).
 
 All AI tools are optional and clearly marked with a ✨ icon.
+
+### AniList
+
+cinematique uses the AniList API to retrieve public anime data, including titles, cover artwork, episode details, and community scores. You may optionally connect your AniList account to sync your anime watchlist, update your viewing progress, and manage your personal ratings directly from the app. This integration is completely optional and your detailed progress remains local to your device unless synced.
+
+Usage of AniList data is subject to [AniList's Terms and Conditions](https://anilist.co/terms) and [Privacy Policy](https://anilist.co/privacy).
+
+### MyAnimeList (MAL)
+
+cinematique utilizes the MyAnimeList API to fetch public information regarding anime, such as metadata, synopses, and ratings. Optionally, you can authenticate with your MyAnimeList account to synchronize your watch history, personal lists, and scores. This is an optional feature designed to keep your anime tracking seamless across platforms.
+
+Use of this service is governed by [MyAnimeList's Terms of Use](https://myanimelist.net/about/terms_of_use) and [Privacy Policy](https://myanimelist.net/about/privacy_policy).
 
 ---
 
@@ -84,4 +96,4 @@ These terms may be updated from time to time. Changes will be posted within the 
 
 If you have questions, feedback, or concerns about these terms, please reach out at:
 
-📧 [your-email@example.com](mailto:your-email@example.com)
+📧 [cinematiqueapp@gmail.com](mailto:cinematiqueapp@gmail.com)
