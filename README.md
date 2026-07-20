@@ -1,6 +1,6 @@
 [![cinematique preview](https://iili.io/qqLKx5X.png)](https://cinematique.me)
 
-![Version](https://img.shields.io/badge/version-2.0.0-violet.svg)
+![Version](https://img.shields.io/badge/version-2.3.0-violet.svg)
 ![Privacy Options](https://img.shields.io/badge/privacy-hybrid--local--first-success)
 ![Status](https://img.shields.io/badge/status-released-purple.svg)
 
